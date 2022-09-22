@@ -11,6 +11,11 @@ body {
   color: black;
 }
 
+.address {
+  line-height: 1px;
+  font-size: 75%;
+}
+
 .xp {
   text-align: center;
   text-transform: uppercase;
