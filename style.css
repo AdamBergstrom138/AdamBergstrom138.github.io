@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://img.freepik.com/free-photo/paper-textured-background_53876-30486.jpg?w=360)
+  background-image: url(https://img.freepik.com/free-photo/paper-textured-background_53876-30486.jpg?w=360);
   color: navy;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
@@ -11,7 +11,7 @@ body {
   text-transform: uppercase;
   border-top: 1px solid yellow;
   border-bottom: 1px solid yellow;
-  background-color: rgba(0,0,0, 0.1)
+  background-color: rgba(0,0,0, 0.1);
 }
 
 .edu {
@@ -19,5 +19,5 @@ body {
   text-transform: uppercase;
   border-top: 1px solid yellow;
   border-bottom: 1px solid yellow;
-  background-color: rgba(0,0,0, 0.1)
+  background-color: rgba(0,0,0, 0.1);
 }
