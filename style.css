@@ -1,14 +1,15 @@
 body {
-  background-image: url(https://www.photos-public-domain.com/wp-content/uploads/2012/05/ivory-off-white-paper-texture.jpg);
-  background-repeat: no-repeat;
-  color: navy;
+  color: black;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%; 
 }
 
 .header {
   text-align: center;
-  color: black;
+  //text-transform: uppercase;
+  //border-radius: 25px;
+  border: 1px solid black;
+  background-color: rgba(254,216,177);
 }
 
 .address {
@@ -16,11 +17,28 @@ body {
   font-size: 75%;
 }
 
+.skills {
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 25px;
+  border: 1px solid black;
+  background-color: rgba(0,0,0, 0.1);
+}
+
+.col-container {
+  display: table;
+  width: 100%;
+}
+
+.col {
+  display: table-cell;
+}
+
 .xp {
   text-align: center;
   text-transform: uppercase;
   border-radius: 25px;
-  border: 1px solid yellow;
+  border: 1px solid black;
   background-color: rgba(0,0,0, 0.1);
 }
 
@@ -28,7 +46,7 @@ body {
   text-align: center;
   text-transform: uppercase;
   border-radius: 25px;
-  border: 1px solid yellow;
+  border: 1px solid black;
   background-color: rgba(0,0,0, 0.1);
 }
 
