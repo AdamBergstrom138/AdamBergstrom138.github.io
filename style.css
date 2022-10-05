@@ -1,10 +1,12 @@
+html {
+  height: 100%;
+}
 body {
   color: Black;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%; 
   background: rgb(2,0,36);
   background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(209,209,242,1) 10%, rgba(0,212,255,1) 100%);
-  background-image: texture1.png;
 }
 
 .header {
